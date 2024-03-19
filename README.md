@@ -1,5 +1,5 @@
 # F1_PowerBI
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F432%2F779%2Fpng-transparent-2018-fia-formula-one-world-championship-abu-dhabi-grand-prix-logo-2017-formula-one-world-championship-formula-two-formula-one-logo-angle-text-sport-thumbnail.png&tbnid=2WI44sGmU01yaM&vet=12ahUKEwidxvby4YCFAxWCnGMGHUz9C_sQMygFegQIARB7..i&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-cncbp&docid=eKyXVUCELDmCRM&w=360&h=360&q=Formula%20one%20logo&hl=en&ved=2ahUKEwidxvby4YCFAxWCnGMGHUz9C_sQMygFegQIARB7" width=200 height=200>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fdownload-wallpapers-new-f1-logo-silk-flag-black-silk-formula-1-emblem-new-logo--828662400161031329%2F&psig=AOvVaw17YzBVpesrnRQoYDTI90jr&ust=1710952772076000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjxif_hgIUDFQAAAAAdAAAAABAJ" width=200 height=200>
 
 ## *A Power BI project based on Formula One summary* </br>
 
