@@ -1,5 +1,5 @@
 # F1_PowerBI
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pond5.com%2Fstock-footage%2Fitem%2F93027006-formula-1-neon-logo&psig=AOvVaw17YzBVpesrnRQoYDTI90jr&ust=1710952772076000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjxif_hgIUDFQAAAAAdAAAAABAO" width=200 height=200>
+<img src="https://i.pinimg.com/originals/be/32/fe/be32fe61944b433376718b5d2d42dfcb.jpg" width=200 height=200>
 
 ## *A Power BI project based on Formula One summary* </br>
 
