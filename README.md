@@ -4,7 +4,7 @@
 ## *A Power BI project based on Formula One summary* </br>
 
 ### Source:
-The **Source** folder contains all the source files from which the Project was derived. <br>
+The **'Source'** folder contains all the source files from which the Project was derived. <br>
 * circuits.json <br>
 * constructors.csv <br>
 * drivers.txt </br>
@@ -12,7 +12,7 @@ The **Source** folder contains all the source files from which the Project was d
 * results.csv </br>
 
 ### Visuals:
-The **Visuals** folder contains all the Images from which the Project was derived. <br>
+The **'Visuals'** folder contains all the Images from which the Project was derived. <br>
 
 ### F1.pbix
 It is the Power BI project file with 5 report pages and 1 tooltip page.
