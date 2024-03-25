@@ -1,7 +1,7 @@
 # F1_PowerBI
 <img src="https://i.pinimg.com/originals/be/32/fe/be32fe61944b433376718b5d2d42dfcb.jpg" width=400 height=200>
 
-## *A Power BI project based on Formula One summary* </br>
+## *A Power BI project based on Formula One analysis* </br>
 
 ### Source:
 The **'Source'** folder contains all the source files from which the Project was derived. <br>
