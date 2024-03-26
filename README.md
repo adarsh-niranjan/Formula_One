@@ -14,7 +14,7 @@ The **'Source'** folder contains all the source files from which the Project was
 ### Visuals:
 The **'Visuals'** folder contains all the Images from which the Project was derived. <br>
 
-### F1.pbix
+### F1.pbix:
 It is the Power BI project file with 5 report pages and 1 tooltip page.
 
 ## Details:
