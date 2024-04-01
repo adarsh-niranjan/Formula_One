@@ -18,4 +18,4 @@ The **'Visuals'** folder contains all the Images from which the Project was deri
 It is the Power BI project file with 5 report pages and 1 tooltip page.
 
 ## Details:
-**We will be analysing the Formula One championship and summarising all the possible aspects like constructor, driver and national performance. We will also be monitoring all the events throughout the world and map them based on significance. At the end there is also an attempt on root cause analysis in driver success components.**
+**We will conduct a comprehensive analysis, summarizing key performance metrics for constructors, drivers, and national teams. This will include win rates and pole positions. Additionally, we will track all major events throughout the season, such as races and locations and map their significance using a ranking system.**
