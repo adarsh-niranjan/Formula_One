@@ -5,11 +5,6 @@
 
 ### Source:
 The **'Source'** folder contains all the source files from which the Project was derived. <br>
-* circuits.json <br>
-* constructors.csv <br>
-* drivers.txt </br>
-* races.csv </br>
-* results.csv </br>
 
 ### Visuals:
 The **'Visuals'** folder contains all the Images from which the Project was derived. <br>
@@ -18,4 +13,4 @@ The **'Visuals'** folder contains all the Images from which the Project was deri
 It is the Power BI project file with 5 report pages and 1 tooltip page.
 
 ## Details:
-**We will conduct a comprehensive analysis, summarizing key performance metrics for constructors, drivers, and national teams. This will include win rates and pole positions. Additionally, we will track all major events throughout the season, such as races and locations and map their significance using a ranking system.**
+**Analyzed Grand Prix data with Power BI to evaluate constructor, driver, and national team performance. Created interactive dashboards and visualizations to explore key metrics like win rates and pole positions while tracking major events at different locations with a ranking system. Leveraged Power Query and data modeling to identify statistical trends in thousands of records that could predict winning drivers and constructors.**
